@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-item{
+    width: 100%;
+    height: 4em;
+    display: flex;
+}
+
+.logo{
+    width: 30%;
+}
+
+.rubixe{
+    position: relative;
+    top: -20px;
+    font-size: 2.0em;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    padding-right: 10px;
+    color: black;
+}
+
+.img1{
+    width: 4em;
+    height: 4em;
+}
+
+.inner-text{
+    position: relative;
+    top: -20px;
+    left: 60px;
+    font-size: 10px;
+    color: black;
+}
+
+.header-text{
+    width: 80%;
+    margin: auto;
+    font-size: large;
+}
+
+.item{
+    color: black;
+    float: right;
+    padding-left: 2em;
+    margin: auto;
+    cursor: pointer;
+}
+
+.parent{
+    width: 100%;
+    height: 400px;
+    padding-top: 10px;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+}
+
+.text{
+    position: absolute;
+    top: 12em;
+    left: 15em;
+}
+
+.tech-item{
+    font-size: 5em;
+    margin-left: 30px;
+    font-weight: 800;
+}
+
+.for-item{
+    font-size: 20px;
+}
+
+.teens-item{
+    font-size: 2em;
+    font-weight: 600;
+}
+
+.text-item{
+    letter-spacing: 2px;
+}
+
+.head{
+    width: 75%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.content{
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pare{
+    display: flex;
+}
+

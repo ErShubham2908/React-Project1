@@ -36,3 +36,72 @@
     transform: rotate(360deg);
   }
 }
+
+.parent{
+  width: 75%;
+  margin: auto;
+  /* position: relative; */
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+.child1{
+  text-align: center;
+ height:235px;
+  width: 250px;
+  border-right: 1px solid rgb(143, 140, 140);
+font-weight: bolder;
+margin: 10px;
+  
+}
+.child2{
+  height: 300px;
+  width: 390px;
+}
+input{
+  width: 100%;
+  height: 30px;
+  border: 1px solid black;
+  padding-left: 20px;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+button{
+  width: 100%;
+  text-align: center;
+  height: 30px;
+  background-color:darkblue;
+  color: white;
+  border: none;
+}
+
+/* // footer CSS */
+.footer{
+  background-color: lightgray;
+  height: 320px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ch1{
+  height: 200px;
+width: 25%;
+font-size: 14px;
+}
+.ch2{
+  height: 200px;
+  width:10%;
+  font-size: 14px;
+}
+.ch3{
+  height: 200px;
+  width:15%;
+  font-size: 14px;
+}
+.ch4{
+  height: 200px;
+  width:20%;
+  font-size: 14px;
+}
